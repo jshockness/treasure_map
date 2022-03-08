@@ -1,4 +1,4 @@
-tresasure# 🚨 Don't change the code below 👇
+# 🚨 Don't change the code below 👇
 row1 = ["⬜️","⬜️","⬜️"]
 row2 = ["⬜️","⬜️","⬜️"]
 row3 = ["⬜️","⬜️","⬜️"]
