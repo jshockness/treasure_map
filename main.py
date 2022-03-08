@@ -8,8 +8,11 @@ position = input("Where do you want to put the treasure? ")
 # 🚨 Don't change the code above 👆
 
 #Write your code below this row 👇
+horizontal_p = int(position[0])
+vertical_p = int(position[1])
 
-
+row_choice = map[vertical_p - 1]
+row_choice[horizontal_p - 1] = "X"
 
 
 
